@@ -1,0 +1,7 @@
+build
+bin
+*.exe
+*.dll
+*.obj
+*.pbj
+.vscode
